@@ -96,7 +96,7 @@ class DummyData {
       'key': 6,
       'value': false,
       'hasChild': true,
-      'parent': 'Inherited'
+      'parent': 'I Can'
     },
     {
       'title': 'Like 1',
